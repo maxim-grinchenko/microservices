@@ -1,0 +1,11 @@
+.idea
+/microservices.iml
+/microservices/zuul/zuul.iml
+/logging/target/
+/microservices/book/target/
+/logging/logging.iml
+/microservices/hit/target/
+/microservices/config-server/target/
+/microservices/eureka-server/target/classes/
+/microservices/zuul/target/
+/microservices/target/
